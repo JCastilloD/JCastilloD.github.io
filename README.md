@@ -1,2 +1,2 @@
 # JCastilloD.github.io
-Thisis my student bio
+This is a short Bio
